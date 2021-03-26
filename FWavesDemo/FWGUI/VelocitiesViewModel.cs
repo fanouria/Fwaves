@@ -59,7 +59,7 @@
                 }
                 if (x.FCV != 0)
                 {
-                    fcvHistogram.Increment((int)x.FCV); //(int)1.5 = 1. I want to inceremen
+                    fcvHistogram.Increment((int)x.FCV); //(int)1.5 = 1. I want to increment
                     count++;// add individual data points
                 }
             }
